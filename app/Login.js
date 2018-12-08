@@ -68,7 +68,7 @@ export default class Login extends Component {
   loginState(result) {
     if(result == "success")
     {
-      this.props.navigation.navigate('Home');
+      this.props.navigation.navigate('Menu');
      
     }
     else
