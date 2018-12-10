@@ -30,7 +30,7 @@ The Login screen is imported from /app/Login.js. It renders the Login page UI co
 
 For more information on navigation, please refer to [https://reactnavigation.org/docs/en/api-reference.html](https://reactnavigation.org/docs/en/api-reference.html).  
   
-The Home page, /app/LoginHome.js, renders menus imported from /app/pages/Menus/index.js.  
+The app Home page renders menus from /app/pages/Menus/index.js.  
 
 When a menu item is clicked, the corresponding page is rendered from home page.  
  
