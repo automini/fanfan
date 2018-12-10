@@ -15,15 +15,15 @@
  */
 
 import { createStackNavigator, createAppContainer } from "react-navigation";
-import LoginHome from './LoginHome';
+import Menu from './pages/Menus';
 import Login from './Login';
 
 const AppNavigator = createStackNavigator({
   Login: {
     screen: Login,
   },
-  Home: {
-    screen: LoginHome,
+  Menu: {
+    screen: Menu,
     navigationOptions: {
       header: null
   }
