@@ -122,7 +122,7 @@ const init = () =>
 {
     var hostName="myHost";
     Parse.setAsyncStorage(AsyncStorage);
-    Parse.initialize("myAppId", "myMasterKey");
+    Parse.initialize("myAppId");
     Parse.serverURL = 'http://' + hostName + '/mbaas';
   
 }
