@@ -9,7 +9,7 @@ You have already download the Mobile Application as part of the example code.  N
 
 3.	Locate the `init()` method at the bottom of the file. 
 
-4.	Replace myAppID and masterKey with your Mobile Backend’s **appID** and **masterKey** specified in Step 1.   
+4.	Replace myAppID with your Mobile Backend’s **appID** specified in Step 1.   
 
 5.	Replace the host name of your Mobile Backend.  
 ![s6b](./imgs/s6b.png)  
